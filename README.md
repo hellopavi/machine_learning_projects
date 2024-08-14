@@ -63,5 +63,3 @@
 <h2 id="contributing">Contributing</h2>
 <p>Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.</p>
 
-<h2 id="license">License</h2>
-<p>This repository is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
