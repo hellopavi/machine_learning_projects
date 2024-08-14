@@ -50,7 +50,7 @@
         </ul>
     </li>
 </ul>
-<p>For more details, refer to the <a href="./Bank-Loan-Prediction-Logistic-Regression">project folder</a>.</p>
+<p>For more details, refer to the <a href="https://github.com/hellopavi/machine_learning_projects/tree/main/bank_loan_prediction">project folder</a>.</p>
 
 <h2 id="installation">Installation</h2>
 <p>To run any of these projects locally, you need to have Python installed along with the required libraries. You can install the dependencies using:</p>
