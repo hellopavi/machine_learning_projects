@@ -34,7 +34,7 @@
         </ul>
     </li>
 </ul>
-<p>For more details, refer to the <a href="./Salary-Classification-KNN">project folder</a>.</p>
+<p>For more details, refer to the <a href="https://github.com/hellopavi/machine_learning_projects/tree/main/salary_estimation">project folder</a>.</p>
 
 <h3 id="2-bank-loan-prediction-using-logistic-regression">2. Bank Loan Prediction using Logistic Regression</h3>
 <p><strong>Objective</strong>: Predict whether a bank loan will be approved based on customer details.</p>
