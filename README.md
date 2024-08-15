@@ -9,6 +9,7 @@
         <ul>
             <li><a href="#1-salary-classification-using-k-nearest-neighbors-knn">1. Salary Classification using K-Nearest Neighbors (KNN)</a></li>
             <li><a href="#2-bank-loan-prediction-using-logistic-regression">2. Bank Loan Prediction using Logistic Regression</a></li>
+           <li> <a href=#3-digit-classification-using-Support-Vector-Machine-svm> 3. Digit Classification using Support Vector Machine (SVM)</a></li>
         </ul>
     </li>
     <li><a href="#installation">Installation</a></li>
