@@ -52,6 +52,23 @@
 </ul>
 <p>For more details, refer to the <a href="https://github.com/hellopavi/machine_learning_projects/tree/main/bank_loan_prediction">project folder</a>.</p>
 
+
+<h3 id="3-digit-classification-using-support-vector-machine-svm">3. Digit Classification using Support Vector Machine (SVM)</h3>
+<p><strong>Objective</strong>: Classify handwritten digits (0-9) using SVM on the <code>digits</code> dataset from <code>scikit-learn</code>.</p>
+<ul>
+    <li><strong>Algorithm</strong>: Support Vector Machine (SVM)</li>
+    <li><strong>Tools</strong>: Python, scikit-learn, Matplotlib</li>
+    <li><strong>Dataset</strong>: Digits dataset from scikit-learn</li>
+    <li><strong>Key Features</strong>:
+        <ul>
+            <li>Data Preprocessing: Reshaping images into feature vectors and splitting data into training and testing sets.</li>
+            <li>Model Training: Training SVM with different kernels (linear, RBF, etc.) and analyzing performance.</li>
+            <li>Evaluation: Model accuracy comparison across different kernels, visualization of predictions.</li>
+        </ul>
+    </li>
+</ul>
+<p>For more details, refer to the <a href="https://github.com/hellopavi/machine_learning_projects/tree/main/digit_classify_svm">project folder</a>.</p>
+
 <h2 id="installation">Installation</h2>
 <p>To run any of these projects locally, you need to have Python installed along with the required libraries. You can install the dependencies using:</p>
 
