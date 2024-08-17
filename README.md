@@ -1,6 +1,6 @@
 <h1>Machine Learning Projects</h1>
 
-<p>This repository contains various machine learning projects that I have worked on. Each project is self-contained and includes the necessary code, datasets, and documentation to understand and replicate the results.</p>
+<p>This repository contains various machine learning projects that I have worked on using Google Colab. Each project is self-contained and includes the necessary code, datasets, and documentation to understand and replicate the results.</p>
 
 <h2>Table of Contents</h2>
 <ul>
