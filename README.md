@@ -10,6 +10,9 @@
             <li><a href="#1-salary-classification-using-k-nearest-neighbors-knn">1. Salary Classification using K-Nearest Neighbors (KNN)</a></li>
             <li><a href="#2-bank-loan-prediction-using-logistic-regression">2. Bank Loan Prediction using Logistic Regression</a></li>
            <li> <a href=#3-digit-classification-using-Support-Vector-Machine-svm> 3. Digit Classification using Support Vector Machine (SVM)</a></li>
+            <li> <a href=#4-titanic-survival-prediction-usinf-naive-bayes-gaussianNM> 4. Titanic Survival Prediction using Naive Bayes (GaussianNB) </a></li>
+            <li> <a href=#5-Digit-Recognition-using-Random-Forest> 5. Digit Recognition using Random Forest </a></li>
+            <li> <a href=#6-Leaf-Prediction-Decision-Tree-Classifier>6. Leaf Prediction Decision Tree Classifier</a></li>
         </ul>
     </li>
     <li><a href="#installation">Installation</a></li>
@@ -26,14 +29,7 @@
 <ul>
     <li><strong>Algorithm</strong>: K-Nearest Neighbors (KNN)</li>
     <li><strong>Tools</strong>: Python, Pandas, NumPy, scikit-learn, Matplotlib</li>
-    <li><strong>Dataset</strong>: salary.csv</li>
-    <li><strong>Key Features</strong>:
-        <ul>
-            <li>Data Preprocessing: Encoding categorical variables and feature scaling.</li>
-            <li>Model Training: Finding the optimal K value by analyzing error rates.</li>
-            <li>Evaluation: Model accuracy and error analysis.</li>
-        </ul>
-    </li>
+    <li><strong>Dataset</strong>: salary.csv</li>   
 </ul>
 <p>For more details, refer to the <a href="https://github.com/hellopavi/machine_learning_projects/tree/main/salary_estimation">project folder</a>.</p>
 
@@ -42,14 +38,7 @@
 <ul>
     <li><strong>Algorithm</strong>: Logistic Regression</li>
     <li><strong>Tools</strong>: Python, Pandas, NumPy, scikit-learn</li>
-    <li><strong>Dataset</strong>: loan_data.csv</li>
-    <li><strong>Key Features</strong>:
-        <ul>
-            <li>Data Preprocessing: Handling missing values and encoding categorical variables.</li>
-            <li>Model Training: Building a logistic regression model to predict loan approval.</li>
-            <li>Evaluation: Model accuracy, confusion matrix, and ROC curve analysis.</li>
-        </ul>
-    </li>
+    <li><strong>Dataset</strong>: loan_data.csv</li>    
 </ul>
 <p>For more details, refer to the <a href="https://github.com/hellopavi/machine_learning_projects/tree/main/bank_loan_prediction">project folder</a>.</p>
 
@@ -59,16 +48,37 @@
 <ul>
     <li><strong>Algorithm</strong>: Support Vector Machine (SVM)</li>
     <li><strong>Tools</strong>: Python, scikit-learn, Matplotlib</li>
-    <li><strong>Dataset</strong>: Digits dataset from scikit-learn</li>
-    <li><strong>Key Features</strong>:
-        <ul>
-            <li>Data Preprocessing: Reshaping images into feature vectors and splitting data into training and testing sets.</li>
-            <li>Model Training: Training SVM with different kernels (linear, RBF, etc.) and analyzing performance.</li>
-            <li>Evaluation: Model accuracy comparison across different kernels, visualization of predictions.</li>
-        </ul>
-    </li>
+    <li><strong>Dataset</strong>: Digits dataset from scikit-learn</li>    
 </ul>
 <p>For more details, refer to the <a href="https://github.com/hellopavi/machine_learning_projects/tree/main/digit_classify_svm">project folder</a>.</p>
+
+<h3 id="4-titanic-survival-prediction-usinf-naive-bayes-gaussianNM">4. Titanic Survival Prediction using Naive Bayes (GaussianNB)</h3>
+<p><strong>Objective</strong>: Predicts survival on the Titanic based on passenger features like age, class, and gender.</p>
+<ul>
+    <li><strong>Algorithm</strong>: Naive Bayes (GaussianNB)</li>
+    <li><strong>Tools</strong>: Python, Pandas, NumPy, scikit-learn</li>
+    <li><strong>Dataset</strong>: Titanic dataset</li>    
+</ul>
+<p>For more details, refer to the <a href="https://github.com/hellopavi/machine_learning_projects/tree/main/survival_prediction">project folder</a>.</p>
+
+<h3 id="5-Digit-Recognition-using-Random-Forest">5. Digit Recognition using Random Forest</h3>
+<p><strong>Objective</strong>: Classifies handwritten digits using Random Forest algorithm.</p>
+<ul>
+    <li><strong>Algorithm</strong>: Random Forest</li>
+    <li><strong>Tools</strong>: Python, Pandas, NumPy, scikit-learn</li>
+    <li><strong>Dataset</strong>:  MNIST dataset</li>    
+</ul>
+<p>For more details, refer to the <a href="https://github.com/hellopavi/machine_learning_projects/tree/main/digit_recognition">project folder</a>.</p>
+
+<h3 id="6-Leaf-Prediction-Decision-Tree-Classifier">6. Leaf Prediction Decision Tree Classifier</h3>
+<p><strong>Objective</strong>:  A Decision Tree model is used to classify the Iris dataset into different species.</p>
+<ul>
+    <li><strong>Algorithm</strong>: Decision Tree Classifier</li>
+    <li><strong>Tools</strong>: Python, Pandas, NumPy, scikit-learn</li>
+    <li><strong>Dataset</strong>: Iris dataset</li>    
+</ul>
+<p>For more details, refer to the <a href="https://github.com/hellopavi/machine_learning_projects/tree/main/leaf_classification">project folder</a>.</p>
+
 
 <h2 id="installation">Installation</h2>
 <p>To run any of these projects locally, you need to have Python installed along with the required libraries. You can install the dependencies using:</p>
@@ -76,6 +86,7 @@
 <pre><code>pip install pandas numpy scikit-learn matplotlib</code></pre>
 
 <p>Each project folder contains a Jupyter Notebook (<code>.ipynb</code>) file with the code and explanations.</p>
+
 
 <h2 id="contributing">Contributing</h2>
 <p>Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.</p>
