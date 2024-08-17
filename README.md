@@ -74,7 +74,7 @@
 <p><strong>Objective</strong>:  A Decision Tree model is used to classify the Iris dataset into different species.</p>
 <ul>
     <li><strong>Algorithm</strong>: Decision Tree Classifier</li>
-    <li><strong>Tools</strong>: Python, Pandas, NumPy, scikit-learn</li>
+    <li><strong>Tools</strong>: Python, Pandas, NumPy, scikit-learn,  Matplotlib</li>
     <li><strong>Dataset</strong>: Iris dataset</li>    
 </ul>
 <p>For more details, refer to the <a href="https://github.com/hellopavi/machine_learning_projects/tree/main/leaf_classification">project folder</a>.</p>
